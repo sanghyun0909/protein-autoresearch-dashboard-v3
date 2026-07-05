@@ -72,15 +72,16 @@ function renderChips(data) {
 // ==== metrics-vs-trial plot =====================================================
 const METRICS = {
   composite: { label: "EC val micro-AUPRC (primary)", key: "composite", anchored: true },
-  go: { label: "GO Fmax", key: "go", anchored: false },
-  repsp: { label: "RepSP AUPRC", key: "repsp", anchored: false },
-  contact: { label: "Contact P@L (long-range)", key: "contact", anchored: false },
+  go: { label: "GO Fmax", key: "go", anchored: true },
+  repsp: { label: "RepSP AUPRC", key: "repsp", anchored: true },
+  contact: { label: "Contact P@L (long-range, supervised)", key: "contact", anchored: true },
 };
 
 function renderMetricPlot(data, metricName) {
   const meta = METRICS[metricName] || METRICS.composite;
   const key = meta.key;
-  const anchor = data.anchor;
+  // per-metric ESM-2 35M anchor (falls back to the composite anchor for older data.json).
+  const anchor = (data.anchors && data.anchors[metricName] != null) ? data.anchors[metricName] : data.anchor;
   // x = node id (== trial / commit order); nodes already sorted by id.
   const nodes = data.nodes;
   const okX = [], okY = [], okHov = [];
