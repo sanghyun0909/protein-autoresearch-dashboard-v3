@@ -111,6 +111,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 6079.215283870697
+    },
+    {
+      "id": 7,
+      "parent": null,
+      "operator": "draft",
+      "family": "electra",
+      "status": "ok",
+      "composite": 0.4400690449426844,
+      "ec": 0.4400690449426844,
+      "go": 0.371928808790593,
+      "repsp": 0.2604642667840051,
+      "contact": 0.09067896859445798,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 11150.614226818085
     }
   ],
   "anchor": 0.765,
@@ -120,5 +136,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T22:28:49Z"
+  "generated_at": "2026-07-05T22:39:18Z"
 }
