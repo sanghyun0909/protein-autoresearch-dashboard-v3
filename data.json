@@ -1,6 +1,22 @@
 {
   "nodes": [
     {
+      "id": 0,
+      "parent": null,
+      "operator": "root",
+      "family": "baseline-esm2-mae",
+      "status": "ok",
+      "composite": 0.542837802580203,
+      "ec": 0.542837802580203,
+      "go": 0.42025043279536917,
+      "repsp": 0.28251154921024096,
+      "contact": 0.08994528067269629,
+      "kept": true,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 9858.214680671692
+    },
+    {
       "id": 1,
       "parent": null,
       "operator": "draft",
@@ -72,5 +88,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T21:29:09Z"
+  "generated_at": "2026-07-05T21:32:00Z"
 }
