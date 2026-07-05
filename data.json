@@ -15,6 +15,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 35.58012652397156
+    },
+    {
+      "id": 2,
+      "parent": null,
+      "operator": "draft",
+      "family": "selective-ssm",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 10.989439964294434
     }
   ],
   "anchor": 0.765,
@@ -24,5 +40,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T19:06:28Z"
+  "generated_at": "2026-07-05T19:33:37Z"
 }
