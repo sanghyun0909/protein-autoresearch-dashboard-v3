@@ -1,5 +1,22 @@
 {
-  "nodes": [],
+  "nodes": [
+    {
+      "id": 1,
+      "parent": null,
+      "operator": "draft",
+      "family": "ibot",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 35.58012652397156
+    }
+  ],
   "anchor": 0.765,
   "anchors": {
     "composite": 0.765,
@@ -7,5 +24,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T17:46:25Z"
+  "generated_at": "2026-07-05T19:06:28Z"
 }
