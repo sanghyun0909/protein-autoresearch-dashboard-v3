@@ -95,6 +95,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 10507.65336227417
+    },
+    {
+      "id": 6,
+      "parent": null,
+      "operator": "draft",
+      "family": "absorbing-diffusion",
+      "status": "ok",
+      "composite": 0.532181463763224,
+      "ec": 0.532181463763224,
+      "go": 0.4196420191309436,
+      "repsp": 0.2817223289993825,
+      "contact": 0.10268669064420886,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 6079.215283870697
     }
   ],
   "anchor": 0.765,
@@ -104,5 +120,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T22:01:00Z"
+  "generated_at": "2026-07-05T22:28:49Z"
 }
