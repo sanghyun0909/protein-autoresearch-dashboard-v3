@@ -79,6 +79,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 8595.478391647339
+    },
+    {
+      "id": 5,
+      "parent": null,
+      "operator": "draft",
+      "family": "infomax",
+      "status": "ok",
+      "composite": 0.07226117322230804,
+      "ec": 0.07226117322230804,
+      "go": 0.17400197977084483,
+      "repsp": 0.1781400130096426,
+      "contact": 0.02508504538960736,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10507.65336227417
     }
   ],
   "anchor": 0.765,
@@ -88,5 +104,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T21:32:00Z"
+  "generated_at": "2026-07-05T22:01:00Z"
 }
