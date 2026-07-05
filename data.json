@@ -47,6 +47,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 6091.719155073166
+    },
+    {
+      "id": 4,
+      "parent": null,
+      "operator": "draft",
+      "family": "vicreg-local",
+      "status": "ok",
+      "composite": 0.22425642848058563,
+      "ec": 0.22425642848058563,
+      "go": 0.2423462304038222,
+      "repsp": 0.20095598958581795,
+      "contact": 0.03144123295878541,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 8595.478391647339
     }
   ],
   "anchor": 0.765,
@@ -56,5 +72,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T20:47:24Z"
+  "generated_at": "2026-07-05T21:29:09Z"
 }
