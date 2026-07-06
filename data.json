@@ -303,6 +303,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 19,
+      "parent": 11,
+      "operator": "improve",
+      "family": "span-boundary",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -312,5 +328,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T05:45:00Z"
+  "generated_at": "2026-07-06T05:51:15Z"
 }
