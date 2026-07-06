@@ -479,6 +479,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 16500.315625190735
+    },
+    {
+      "id": 30,
+      "parent": null,
+      "operator": "draft",
+      "family": "branchformer",
+      "status": "ok",
+      "composite": 0.5418825872273384,
+      "ec": 0.5418825872273384,
+      "go": 0.4226582604383026,
+      "repsp": 0.29205718430769306,
+      "contact": 0.09158561156800937,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 17040.9199655056
     }
   ],
   "anchor": 0.765,
@@ -488,5 +504,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T11:45:57Z"
+  "generated_at": "2026-07-06T11:54:59Z"
 }
