@@ -223,6 +223,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 8759.71724319458
+    },
+    {
+      "id": 14,
+      "parent": null,
+      "operator": "draft",
+      "family": "hourglass-msp",
+      "status": "ok",
+      "composite": 0.5011530777867762,
+      "ec": 0.5011530777867762,
+      "go": 0.4031376900995203,
+      "repsp": 0.27730801374207076,
+      "contact": 0.09072626367789342,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 3863.177164077759
     }
   ],
   "anchor": 0.765,
@@ -232,5 +248,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T04:40:49Z"
+  "generated_at": "2026-07-06T05:09:13Z"
 }
