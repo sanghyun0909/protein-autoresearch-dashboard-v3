@@ -783,6 +783,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 29662.924664497375
+    },
+    {
+      "id": 49,
+      "parent": null,
+      "operator": "draft",
+      "family": "selective-decay-attn",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -792,5 +808,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T20:19:20Z"
+  "generated_at": "2026-07-06T20:56:33Z"
 }
