@@ -367,6 +367,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 8193.297914266586
+    },
+    {
+      "id": 23,
+      "parent": null,
+      "operator": "draft",
+      "family": "data2vec",
+      "status": "ok",
+      "composite": 0.42000409844500214,
+      "ec": 0.42000409844500214,
+      "go": 0.3579940527075089,
+      "repsp": 0.2633554221108156,
+      "contact": 0.08306925462598613,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 16978.63699388504
     }
   ],
   "anchor": 0.765,
@@ -376,5 +392,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T06:57:28Z"
+  "generated_at": "2026-07-06T06:57:47Z"
 }
