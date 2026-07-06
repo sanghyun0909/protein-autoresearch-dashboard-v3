@@ -351,6 +351,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 4765.213711023331
+    },
+    {
+      "id": 22,
+      "parent": null,
+      "operator": "draft",
+      "family": "hourglass-mrp",
+      "status": "ok",
+      "composite": 0.4074004001645694,
+      "ec": 0.4074004001645694,
+      "go": 0.3560365668430782,
+      "repsp": 0.24190772371103925,
+      "contact": 0.08735727165339573,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 8193.297914266586
     }
   ],
   "anchor": 0.765,
@@ -360,5 +376,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T06:28:44Z"
+  "generated_at": "2026-07-06T06:57:28Z"
 }
