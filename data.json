@@ -399,6 +399,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 17684.142536640167
+    },
+    {
+      "id": 25,
+      "parent": 3,
+      "operator": "improve",
+      "family": "best-rq",
+      "status": "ok",
+      "composite": 0.4528164929462608,
+      "ec": 0.4528164929462608,
+      "go": 0.3652707731554207,
+      "repsp": 0.24665080092521824,
+      "contact": 0.08159632119034489,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 5933.021406888962
     }
   ],
   "anchor": 0.765,
@@ -408,5 +424,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T07:09:35Z"
+  "generated_at": "2026-07-06T07:23:58Z"
 }
