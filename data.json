@@ -575,6 +575,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 36,
+      "parent": 9,
+      "operator": "improve",
+      "family": "gated-linear-attention",
+      "status": "ok",
+      "composite": 0.5061349279058961,
+      "ec": 0.5061349279058961,
+      "go": 0.41207824148581046,
+      "repsp": 0.2704214556094334,
+      "contact": 0.09349207741977757,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 33953.84678673744
     }
   ],
   "anchor": 0.765,
@@ -584,5 +600,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T14:58:50Z"
+  "generated_at": "2026-07-06T15:06:56Z"
 }
