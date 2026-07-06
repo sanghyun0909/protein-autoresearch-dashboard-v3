@@ -159,6 +159,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 21407.997473716736
+    },
+    {
+      "id": 10,
+      "parent": 1,
+      "operator": "debug",
+      "family": "ibot",
+      "status": "ok",
+      "composite": 0.16122510135676277,
+      "ec": 0.16122510135676277,
+      "go": 0.23445720587318294,
+      "repsp": 0.18577323016696012,
+      "contact": 0.030034569059063976,
+      "kept": true,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 16461.266535520554
     }
   ],
   "anchor": 0.765,
@@ -168,5 +184,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T01:30:16Z"
+  "generated_at": "2026-07-06T02:06:27Z"
 }
