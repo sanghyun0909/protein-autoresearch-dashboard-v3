@@ -207,6 +207,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 30736.193506479263
+    },
+    {
+      "id": 13,
+      "parent": null,
+      "operator": "draft",
+      "family": "multi-resolution-mlm",
+      "status": "ok",
+      "composite": 0.45167606755058126,
+      "ec": 0.45167606755058126,
+      "go": 0.3696522480700158,
+      "repsp": 0.25431403566735733,
+      "contact": 0.0870189327160293,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 8759.71724319458
     }
   ],
   "anchor": 0.765,
@@ -216,5 +232,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T04:06:01Z"
+  "generated_at": "2026-07-06T04:40:49Z"
 }
