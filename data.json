@@ -799,6 +799,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 50,
+      "parent": null,
+      "operator": "draft",
+      "family": "diff-attention",
+      "status": "ok",
+      "composite": 0.5280936708371473,
+      "ec": 0.5280936708371473,
+      "go": 0.4245310569014687,
+      "repsp": 0.2857359354678994,
+      "contact": 0.09030419655870038,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 16290.03323173523
     }
   ],
   "anchor": 0.765,
@@ -808,5 +824,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T20:56:33Z"
+  "generated_at": "2026-07-06T21:24:28Z"
 }
