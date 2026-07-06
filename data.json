@@ -127,6 +127,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 11150.614226818085
+    },
+    {
+      "id": 8,
+      "parent": null,
+      "operator": "draft",
+      "family": "vicregl",
+      "status": "ok",
+      "composite": 0.09166259882995843,
+      "ec": 0.09166259882995843,
+      "go": 0.1614714764575144,
+      "repsp": 0.17836882997559741,
+      "contact": 0.019804572975715497,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 21496.09803891182
     }
   ],
   "anchor": 0.765,
@@ -136,5 +152,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-05T22:39:18Z"
+  "generated_at": "2026-07-06T01:04:09Z"
 }
