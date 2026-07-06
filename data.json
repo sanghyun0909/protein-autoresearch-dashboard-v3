@@ -415,6 +415,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 5933.021406888962
+    },
+    {
+      "id": 26,
+      "parent": null,
+      "operator": "draft",
+      "family": "multiscale-decay-attn",
+      "status": "ok",
+      "composite": 0.5514827011688345,
+      "ec": 0.5514827011688345,
+      "go": 0.43097212718670747,
+      "repsp": 0.30494544411956187,
+      "contact": 0.0883077774093692,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 7749.1170201301575
     }
   ],
   "anchor": 0.765,
@@ -424,5 +440,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T07:23:58Z"
+  "generated_at": "2026-07-06T09:44:29Z"
 }
