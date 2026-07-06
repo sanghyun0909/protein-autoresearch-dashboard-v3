@@ -239,6 +239,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 3863.177164077759
+    },
+    {
+      "id": 15,
+      "parent": null,
+      "operator": "draft",
+      "family": "sedd",
+      "status": "ok",
+      "composite": 0.5109084526344773,
+      "ec": 0.5109084526344773,
+      "go": 0.40191578650767795,
+      "repsp": 0.27859604606987176,
+      "contact": 0.09912372317105958,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 9604.087638378143
     }
   ],
   "anchor": 0.765,
@@ -248,5 +264,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T05:09:13Z"
+  "generated_at": "2026-07-06T05:23:06Z"
 }
