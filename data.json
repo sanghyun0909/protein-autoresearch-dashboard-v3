@@ -543,6 +543,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 16746.786415576935
+    },
+    {
+      "id": 34,
+      "parent": null,
+      "operator": "draft",
+      "family": "deformable-attention",
+      "status": "ok",
+      "composite": 0.4870512602133477,
+      "ec": 0.4870512602133477,
+      "go": 0.39064421115355,
+      "repsp": 0.2633533459426467,
+      "contact": 0.07809925658309706,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 12484.97237110138
     }
   ],
   "anchor": 0.765,
@@ -552,5 +568,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T14:23:41Z"
+  "generated_at": "2026-07-06T14:32:44Z"
 }
