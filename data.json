@@ -319,6 +319,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 20,
+      "parent": 6,
+      "operator": "improve",
+      "family": "absorbing-diffusion",
+      "status": "smoke_failed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -328,5 +344,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T05:51:15Z"
+  "generated_at": "2026-07-06T05:51:17Z"
 }
