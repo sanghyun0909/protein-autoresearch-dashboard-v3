@@ -1263,6 +1263,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 6869.833199977875
+    },
+    {
+      "id": 79,
+      "parent": null,
+      "operator": "draft",
+      "family": "multi-axis-mlm",
+      "status": "ok",
+      "composite": 0.4187033721185516,
+      "ec": 0.4187033721185516,
+      "go": 0.36918595524816306,
+      "repsp": 0.23798856982592825,
+      "contact": 0.06550731531199015,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10253.844732761383
     }
   ],
   "anchor": 0.765,
@@ -1272,5 +1288,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T06:23:02Z"
+  "generated_at": "2026-07-07T06:33:32Z"
 }
