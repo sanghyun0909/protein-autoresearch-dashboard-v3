@@ -1615,6 +1615,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 15496.627580881119
+    },
+    {
+      "id": 101,
+      "parent": null,
+      "operator": "draft",
+      "family": "modulated-recurrence",
+      "status": "ok",
+      "composite": 0.6049963300741655,
+      "ec": 0.6049963300741655,
+      "go": 0.4555960058085346,
+      "repsp": 0.33163303381255727,
+      "contact": 0.11255928730388469,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 16107.476562738419
     }
   ],
   "anchor": 0.765,
@@ -1624,5 +1640,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T21:23:30Z"
+  "generated_at": "2026-07-07T22:30:05Z"
 }
