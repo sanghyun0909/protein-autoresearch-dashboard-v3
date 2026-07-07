@@ -1199,6 +1199,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 6267.985598325729
+    },
+    {
+      "id": 75,
+      "parent": null,
+      "operator": "draft",
+      "family": "value-residual",
+      "status": "ok",
+      "composite": 0.5315090260256455,
+      "ec": 0.5315090260256455,
+      "go": 0.41262702306727367,
+      "repsp": 0.2823127660979246,
+      "contact": 0.0838084086091242,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 5882.142176151276
     }
   ],
   "anchor": 0.765,
@@ -1208,5 +1224,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T04:28:26Z"
+  "generated_at": "2026-07-07T04:45:26Z"
 }
