@@ -1503,6 +1503,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 14767.727715492249
+    },
+    {
+      "id": 94,
+      "parent": null,
+      "operator": "draft",
+      "family": "deep-supervised-recurrence",
+      "status": "ok",
+      "composite": 0.5534474412736289,
+      "ec": 0.5534474412736289,
+      "go": 0.4315563821950142,
+      "repsp": 0.3248719720639052,
+      "contact": 0.10898261778706088,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 23859.806796312332
     }
   ],
   "anchor": 0.765,
@@ -1512,5 +1528,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T17:05:06Z"
+  "generated_at": "2026-07-07T18:01:00Z"
 }
