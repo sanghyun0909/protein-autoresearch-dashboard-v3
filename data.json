@@ -991,6 +991,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 5395.022028923035
+    },
+    {
+      "id": 62,
+      "parent": null,
+      "operator": "draft",
+      "family": "mae-asymmetric",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 21.432374477386475
     }
   ],
   "anchor": 0.765,
@@ -1000,5 +1016,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T01:31:26Z"
+  "generated_at": "2026-07-07T01:32:23Z"
 }
