@@ -1215,6 +1215,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 5882.142176151276
+    },
+    {
+      "id": 76,
+      "parent": null,
+      "operator": "draft",
+      "family": "info-bottleneck",
+      "status": "ok",
+      "composite": 0.4785141742533296,
+      "ec": 0.4785141742533296,
+      "go": 0.40378166680908184,
+      "repsp": 0.2283595855987404,
+      "contact": 0.036331242385807413,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 11106.5941593647
     }
   ],
   "anchor": 0.765,
@@ -1224,5 +1240,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T04:45:26Z"
+  "generated_at": "2026-07-07T04:48:30Z"
 }
