@@ -1247,6 +1247,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 10648.61016535759
+    },
+    {
+      "id": 78,
+      "parent": null,
+      "operator": "draft",
+      "family": "sigmoid-attention",
+      "status": "ok",
+      "composite": 0.479360513790878,
+      "ec": 0.479360513790878,
+      "go": 0.3987300848141872,
+      "repsp": 0.25759030219393964,
+      "contact": 0.08255292818354555,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 6869.833199977875
     }
   ],
   "anchor": 0.765,
@@ -1256,5 +1272,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T06:05:47Z"
+  "generated_at": "2026-07-07T06:23:02Z"
 }
