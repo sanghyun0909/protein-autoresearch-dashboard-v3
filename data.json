@@ -1279,6 +1279,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 10253.844732761383
+    },
+    {
+      "id": 80,
+      "parent": null,
+      "operator": "draft",
+      "family": "register-tokens",
+      "status": "ok",
+      "composite": 0.537623905806125,
+      "ec": 0.537623905806125,
+      "go": 0.4192922844268476,
+      "repsp": 0.2920181508178601,
+      "contact": 0.09069913443225558,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 6547.57842206955
     }
   ],
   "anchor": 0.765,
@@ -1288,5 +1304,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T06:33:32Z"
+  "generated_at": "2026-07-07T06:34:39Z"
 }
