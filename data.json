@@ -1343,6 +1343,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 8068.267682313919
+    },
+    {
+      "id": 84,
+      "parent": null,
+      "operator": "draft",
+      "family": "global-filter",
+      "status": "ok",
+      "composite": 0.40408909440588103,
+      "ec": 0.40408909440588103,
+      "go": 0.3623102542383653,
+      "repsp": 0.23102888365719126,
+      "contact": 0.07477492061501957,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 20647.10210466385
     }
   ],
   "anchor": 0.765,
@@ -1352,5 +1368,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T08:37:36Z"
+  "generated_at": "2026-07-07T09:26:46Z"
 }
