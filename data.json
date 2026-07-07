@@ -1055,6 +1055,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 66,
+      "parent": null,
+      "operator": "draft",
+      "family": "t5-span-denoise",
+      "status": "ok",
+      "composite": 0.43366106211764033,
+      "ec": 0.43366106211764033,
+      "go": 0.3640447689937758,
+      "repsp": 0.24722954961283367,
+      "contact": 0.09564310751490931,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10971.064291000366
     }
   ],
   "anchor": 0.765,
@@ -1064,5 +1080,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T01:43:18Z"
+  "generated_at": "2026-07-07T02:26:50Z"
 }
