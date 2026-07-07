@@ -1039,6 +1039,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 18.832351684570312
+    },
+    {
+      "id": 65,
+      "parent": null,
+      "operator": "draft",
+      "family": "gmlp",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -1048,5 +1064,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T01:34:04Z"
+  "generated_at": "2026-07-07T01:43:18Z"
 }
