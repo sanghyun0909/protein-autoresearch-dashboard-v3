@@ -1007,6 +1007,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 21.432374477386475
+    },
+    {
+      "id": 63,
+      "parent": null,
+      "operator": "draft",
+      "family": "l-dae",
+      "status": "ok",
+      "composite": 0.21528338030228458,
+      "ec": 0.21528338030228458,
+      "go": 0.23594455598911837,
+      "repsp": 0.16963779704268533,
+      "contact": 0.0334788184005237,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 5558.982192516327
     }
   ],
   "anchor": 0.765,
@@ -1016,5 +1032,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T01:32:23Z"
+  "generated_at": "2026-07-07T01:33:40Z"
 }
