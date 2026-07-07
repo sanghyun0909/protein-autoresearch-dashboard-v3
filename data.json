@@ -1375,6 +1375,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 15282.456763505936
+    },
+    {
+      "id": 86,
+      "parent": 24,
+      "operator": "improve",
+      "family": "permutation-lm",
+      "status": "ok",
+      "composite": 0.554380863724344,
+      "ec": 0.554380863724344,
+      "go": 0.42331248740918626,
+      "repsp": 0.2979676202098137,
+      "contact": 0.09873242456003604,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 15360.84682226181
     }
   ],
   "anchor": 0.765,
@@ -1384,5 +1400,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T10:49:28Z"
+  "generated_at": "2026-07-07T11:23:14Z"
 }
