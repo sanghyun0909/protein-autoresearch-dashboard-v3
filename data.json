@@ -975,6 +975,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 61,
+      "parent": null,
+      "operator": "draft",
+      "family": "profile-mlm",
+      "status": "ok",
+      "composite": 0.5309609035265666,
+      "ec": 0.5309609035265666,
+      "go": 0.41771687218268944,
+      "repsp": 0.29175826977088626,
+      "contact": 0.08558789322366198,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 5395.022028923035
     }
   ],
   "anchor": 0.765,
@@ -984,5 +1000,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T00:34:28Z"
+  "generated_at": "2026-07-07T01:31:26Z"
 }
