@@ -895,6 +895,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 56,
+      "parent": null,
+      "operator": "draft",
+      "family": "sparse-moe",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -904,5 +920,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-06T23:23:54Z"
+  "generated_at": "2026-07-07T00:00:56Z"
 }
