@@ -1231,6 +1231,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 11106.5941593647
+    },
+    {
+      "id": 77,
+      "parent": null,
+      "operator": "draft",
+      "family": "koleo",
+      "status": "ok",
+      "composite": 0.396664267287494,
+      "ec": 0.396664267287494,
+      "go": 0.3218158728882628,
+      "repsp": 0.22898601925243084,
+      "contact": 0.027388785728423955,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10648.61016535759
     }
   ],
   "anchor": 0.765,
@@ -1240,5 +1256,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T04:48:30Z"
+  "generated_at": "2026-07-07T06:05:47Z"
 }
