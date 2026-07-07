@@ -1183,6 +1183,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 13852.463721513748
+    },
+    {
+      "id": 74,
+      "parent": null,
+      "operator": "draft",
+      "family": "remask-mae",
+      "status": "ok",
+      "composite": 0.5393133385175708,
+      "ec": 0.5393133385175708,
+      "go": 0.4121048916444776,
+      "repsp": 0.2622279389482697,
+      "contact": 0.07868035699111005,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 6267.985598325729
     }
   ],
   "anchor": 0.765,
@@ -1192,5 +1208,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T04:25:29Z"
+  "generated_at": "2026-07-07T04:28:26Z"
 }
