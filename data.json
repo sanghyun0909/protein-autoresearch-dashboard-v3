@@ -1087,6 +1087,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 4283.202498674393
+    },
+    {
+      "id": 68,
+      "parent": null,
+      "operator": "draft",
+      "family": "mage-variable-mask",
+      "status": "ok",
+      "composite": 0.25138291920030664,
+      "ec": 0.25138291920030664,
+      "go": 0.29682345796392334,
+      "repsp": 0.2116088609241339,
+      "contact": 0.04495869216556,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 5587.210354804993
     }
   ],
   "anchor": 0.765,
@@ -1096,5 +1112,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T02:43:52Z"
+  "generated_at": "2026-07-07T03:07:17Z"
 }
