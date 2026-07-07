@@ -1135,6 +1135,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 71,
+      "parent": null,
+      "operator": "draft",
+      "family": "cope-contextual-position",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
