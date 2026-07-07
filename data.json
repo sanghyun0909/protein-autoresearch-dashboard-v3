@@ -1167,6 +1167,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 73,
+      "parent": null,
+      "operator": "draft",
+      "family": "glm-blank-infilling",
+      "status": "ok",
+      "composite": 0.41293163861861554,
+      "ec": 0.41293163861861554,
+      "go": 0.3735267985498601,
+      "repsp": 0.2546387508520749,
+      "contact": 0.08138103616696614,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 13852.463721513748
     }
   ],
   "anchor": 0.765,
@@ -1176,5 +1192,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T03:42:33Z"
+  "generated_at": "2026-07-07T04:25:29Z"
 }
