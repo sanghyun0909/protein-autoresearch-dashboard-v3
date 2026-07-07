@@ -943,6 +943,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 27324.232437849045
+    },
+    {
+      "id": 59,
+      "parent": null,
+      "operator": "draft",
+      "family": "harmonic-bias",
+      "status": "smoke_failed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -952,5 +968,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T00:09:53Z"
+  "generated_at": "2026-07-07T00:09:55Z"
 }
