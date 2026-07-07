@@ -1295,6 +1295,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 6547.57842206955
+    },
+    {
+      "id": 81,
+      "parent": null,
+      "operator": "draft",
+      "family": "spanbert-sbo",
+      "status": "ok",
+      "composite": 0.5252309244685028,
+      "ec": 0.5252309244685028,
+      "go": 0.4142053802385635,
+      "repsp": 0.29707022832035923,
+      "contact": 0.10310465135026815,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10387.32241654396
     }
   ],
   "anchor": 0.765,
@@ -1304,5 +1320,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T06:34:39Z"
+  "generated_at": "2026-07-07T06:35:45Z"
 }
