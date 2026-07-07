@@ -1311,6 +1311,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 10387.32241654396
+    },
+    {
+      "id": 82,
+      "parent": null,
+      "operator": "draft",
+      "family": "hypersphere-norm",
+      "status": "ok",
+      "composite": 0.4425706763428662,
+      "ec": 0.4425706763428662,
+      "go": 0.37735894339409165,
+      "repsp": 0.25942850873359674,
+      "contact": 0.07512576123715714,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 9689.725534200668
     }
   ],
   "anchor": 0.765,
@@ -1320,5 +1336,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T06:35:45Z"
+  "generated_at": "2026-07-07T07:07:05Z"
 }
