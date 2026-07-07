@@ -1631,6 +1631,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 16107.476562738419
+    },
+    {
+      "id": 102,
+      "parent": 44,
+      "operator": "improve",
+      "family": "looped-transformer",
+      "status": "ok",
+      "composite": 0.5947221441901818,
+      "ec": 0.5947221441901818,
+      "go": 0.4449117724532843,
+      "repsp": 0.32401910778038584,
+      "contact": 0.0949995935116566,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 31040.072203159332
     }
   ],
   "anchor": 0.765,
@@ -1640,5 +1656,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T22:30:05Z"
+  "generated_at": "2026-07-07T22:56:43Z"
 }
