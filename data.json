@@ -1023,6 +1023,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 5558.982192516327
+    },
+    {
+      "id": 64,
+      "parent": null,
+      "operator": "draft",
+      "family": "hubert-cluster-prediction",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 18.832351684570312
     }
   ],
   "anchor": 0.765,
@@ -1032,5 +1048,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-07T01:33:40Z"
+  "generated_at": "2026-07-07T01:34:04Z"
 }
