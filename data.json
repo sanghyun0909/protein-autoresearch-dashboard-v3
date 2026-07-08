@@ -1839,6 +1839,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 24878.761437892914
+    },
+    {
+      "id": 115,
+      "parent": 101,
+      "operator": "improve",
+      "family": "scheduled-decay-recurrence",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -1848,5 +1864,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T09:21:37Z"
+  "generated_at": "2026-07-08T09:35:14Z"
 }
