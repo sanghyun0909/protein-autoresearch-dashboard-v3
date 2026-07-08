@@ -1823,6 +1823,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 24663.38142848015
+    },
+    {
+      "id": 114,
+      "parent": null,
+      "operator": "draft",
+      "family": "global-workspace",
+      "status": "ok",
+      "composite": 0.5829999906628003,
+      "ec": 0.5829999906628003,
+      "go": 0.4447768105361816,
+      "repsp": 0.32246897791969575,
+      "contact": 0.09507416125007123,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 24878.761437892914
     }
   ],
   "anchor": 0.765,
@@ -1832,5 +1848,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T08:17:06Z"
+  "generated_at": "2026-07-08T09:21:37Z"
 }
