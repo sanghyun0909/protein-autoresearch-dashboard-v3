@@ -1791,6 +1791,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 15577.916437149048
+    },
+    {
+      "id": 112,
+      "parent": 44,
+      "operator": "improve",
+      "family": "looped-decay",
+      "status": "ok",
+      "composite": 0.5987221609864867,
+      "ec": 0.5987221609864867,
+      "go": 0.4414078171902829,
+      "repsp": 0.3271620128974787,
+      "contact": 0.09220679382737805,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 30907.441210985184
     }
   ],
   "anchor": 0.765,
@@ -1800,5 +1816,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T07:25:29Z"
+  "generated_at": "2026-07-08T07:31:57Z"
 }
