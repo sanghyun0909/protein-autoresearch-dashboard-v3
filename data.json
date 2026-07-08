@@ -1759,6 +1759,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 27068.03683948517
+    },
+    {
+      "id": 110,
+      "parent": 44,
+      "operator": "draft",
+      "family": "momentum-recurrence",
+      "status": "ok",
+      "composite": 0.5993687619192588,
+      "ec": 0.5993687619192588,
+      "go": 0.44883324613975534,
+      "repsp": 0.3322581651418677,
+      "contact": 0.09617993567036522,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 26106.74537920952
     }
   ],
   "anchor": 0.765,
@@ -1768,5 +1784,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T04:46:12Z"
+  "generated_at": "2026-07-08T05:45:17Z"
 }
