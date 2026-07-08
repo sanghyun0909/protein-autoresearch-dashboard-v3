@@ -1807,6 +1807,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 30907.441210985184
+    },
+    {
+      "id": 113,
+      "parent": null,
+      "operator": "draft",
+      "family": "adaln-loop",
+      "status": "ok",
+      "composite": 0.5736869599210758,
+      "ec": 0.5736869599210758,
+      "go": 0.439639788733359,
+      "repsp": 0.3142051591057164,
+      "contact": 0.09741773255008633,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 24663.38142848015
     }
   ],
   "anchor": 0.765,
@@ -1816,5 +1832,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T07:31:57Z"
+  "generated_at": "2026-07-08T08:17:06Z"
 }
