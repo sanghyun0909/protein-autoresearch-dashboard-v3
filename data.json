@@ -1711,6 +1711,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 28005.767263889313
+    },
+    {
+      "id": 107,
+      "parent": null,
+      "operator": "draft",
+      "family": "mixture-of-depths",
+      "status": "ok",
+      "composite": 0.5267917757316718,
+      "ec": 0.5267917757316718,
+      "go": 0.41304490122614657,
+      "repsp": 0.28408653690911967,
+      "contact": 0.0892812351189733,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 5684.466183662415
     }
   ],
   "anchor": 0.765,
@@ -1720,5 +1736,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T02:26:51Z"
+  "generated_at": "2026-07-08T03:05:44Z"
 }
