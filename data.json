@@ -1743,6 +1743,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 32872.4481716156
+    },
+    {
+      "id": 109,
+      "parent": null,
+      "operator": "draft",
+      "family": "anderson-recurrence",
+      "status": "ok",
+      "composite": 0.5743224816540502,
+      "ec": 0.5743224816540502,
+      "go": 0.43401289210291366,
+      "repsp": 0.32493530590793296,
+      "contact": 0.10180920130205562,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 27068.03683948517
     }
   ],
   "anchor": 0.765,
@@ -1752,5 +1768,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T03:56:14Z"
+  "generated_at": "2026-07-08T04:46:12Z"
 }
