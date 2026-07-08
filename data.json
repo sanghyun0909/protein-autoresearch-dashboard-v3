@@ -1855,6 +1855,22 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 116,
+      "parent": 105,
+      "operator": "improve",
+      "family": "pass-decay-schedule",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "contact": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.765,
@@ -1864,5 +1880,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T09:35:14Z"
+  "generated_at": "2026-07-08T09:35:15Z"
 }
