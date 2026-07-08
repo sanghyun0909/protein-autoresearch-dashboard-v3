@@ -1775,6 +1775,22 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 26106.74537920952
+    },
+    {
+      "id": 111,
+      "parent": 100,
+      "operator": "improve",
+      "family": "self-conditioning",
+      "status": "ok",
+      "composite": 0.6037546482690711,
+      "ec": 0.6037546482690711,
+      "go": 0.4543973724789227,
+      "repsp": 0.3304260581369742,
+      "contact": 0.10886274738972314,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 15577.916437149048
     }
   ],
   "anchor": 0.765,
@@ -1784,5 +1800,5 @@
     "repsp": 0.534,
     "contact": 0.101
   },
-  "generated_at": "2026-07-08T05:45:17Z"
+  "generated_at": "2026-07-08T07:25:29Z"
 }
